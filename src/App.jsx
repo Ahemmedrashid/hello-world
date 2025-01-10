@@ -1,8 +1,12 @@
 import React from 'react'
+import Add from './Add'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      App
+      <Add/>
+    </div>
   )
 }
 
